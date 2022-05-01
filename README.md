@@ -5,9 +5,24 @@ Model-View-Controller (MVC): Tech Blog
 ## Objective
 
 Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebase, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
-## Screenshots and links
+## Video Walkthrough link
 
 https://user-images.githubusercontent.com/67285232/164023464-4c8f452d-b4d4-4ec8-9cb8-fc6d1ecb49d6.mp4
+
+
+## Sceenshots of final page
+
+![Final Page](./images/tech-blog.png)
+![Login Page](./images/tech-blog-login.png)
+![Signup Page](./images/tech-blog-signup.png)
+![Create Post Page](./images/tech-blog-createpost.png)
+![Dashboard Page](./images/tech-blog-dashboard.png)
+
+## Link to deployed page
+
+[Heroku page](https://shrouded-springs-43336.herokuapp.com)
+
+## **License**
 
 ## Task
 
@@ -61,8 +76,7 @@ The server is running, now you can make requests to it through your desired meth
 - [Express.js](https://www.npmjs.com/package/express)
 - [Visual Studio Code](<https://code.visualstudio.com/>)
 
-## Contributions
-
+<>
 
 
 ## License
